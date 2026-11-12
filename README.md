@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm arulx06 👋
+# Hey, I'm Arul 👋
 
 ### Software Engineering · Distributed Systems · Applied AI · IoT
 
