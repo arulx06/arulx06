@@ -46,7 +46,7 @@ Building practical systems, exploring how they fail, and learning how to make th
 ### 📊 GitHub activity
 
 <div align="center">
-  <img alt="GitHub statistics for arulx06" src="https://github-readme-stats.vercel.app/api?username=arulx06&show_icons=true&theme=github_dark&hide_border=true" />
+ <img src="https://github-stats-extended.vercel.app/api?username=arulx06&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
 </div>
 
 > I value working software, readable architecture, tests and clear documentation more than vanity metrics.
