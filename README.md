@@ -19,7 +19,7 @@ Building practical systems, exploring how they fail, and learning how to make th
 - 🔧 Interested in **backend engineering, distributed systems, cybersecurity, AI/ML and embedded systems**.
 - 🧪 I enjoy building end-to-end prototypes, testing their limitations, and improving reliability.
 - 🏆 **Anokha 2026 Software Winner** (IRIS, an assistive vision system); **PEC Hacks 3.0 Top 50**.
-- 🌱 Currently sharpening **Java, backend architecture, system design and open-source collaboration**.
+- 🌱 Currently sharpening **Java, backend architecture and system design**.
 
 ### 🛠️ Tech I work with
 
